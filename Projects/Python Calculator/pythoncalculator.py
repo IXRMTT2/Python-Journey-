@@ -108,7 +108,7 @@ def calculator():
             print(f"{num1} {op} {num2} = {result}")
 
         else:
-            print("Unsupported. Please try again.")
+            print("Unsupported. Please try again<3.")
 
 if __name__ == "__main__":
     calculator()
